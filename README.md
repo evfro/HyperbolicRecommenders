@@ -1,5 +1,5 @@
 # Hyperbolic (ordinary and variational) autoencoders for recommender systems
-Accompanying code for the paper
+Accompanying code for the paper [Performance of Hyperbolic Geometry Models on Top-N Recommendation Tasks]()
 
 ## Results
 <p align="middle">
@@ -11,17 +11,18 @@ Accompanying code for the paper
 
 
 ## Data
-To reproduce our code, please put the data files in the following order:
+To reproduce our code, please put the corresponding data files in the following folder structure:
 
 data
-  * recvae
-      * ml20m
   * troublinganalysis
       * mvae
           * netflix
+          * ml20m
       * neumf
           * ml1m
           * pinterest
+  * recvae
+      * ml20m
 
 Also, please install geoopt package [geoopt](https://github.com/geoopt) for Riemannian optimization and [hyptorch](https://github.com/leymir/hyperbolic-image-embeddings) for computations in hyperbolic spaces.
 
