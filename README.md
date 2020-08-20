@@ -1,5 +1,5 @@
 # Hyperbolic (ordinary and variational) autoencoders for recommender systems
-Accompanying code for the paper [Performance of Hyperbolic Geometry Models on Top-N Recommendation Tasks]()
+Accompanying code for the paper [Performance of Hyperbolic Geometry Models on Top-N Recommendation Tasks](https://arxiv.org/abs/2008.06716)
 
 ## Results
 <p align="middle">
